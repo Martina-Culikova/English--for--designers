@@ -1,4 +1,4 @@
-# English--for--designers
+# English-for-designers
 [Home](../index.md)
 [Artwork](../artwork/index.md)
 [About me](../about.md)
